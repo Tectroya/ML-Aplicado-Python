@@ -1,0 +1,37 @@
+[
+  {
+    "id_venta": 101,
+    "id_cliente": 1,
+    "monto": 120000,
+    "medio_pago": "tarjeta",
+    "canal": "online"
+  },
+  {
+    "id_venta": 102,
+    "id_cliente": 2,
+    "monto": 250000,
+    "medio_pago": "transferencia",
+    "canal": "tienda"
+  },
+  {
+    "id_venta": 103,
+    "id_cliente": 3,
+    "monto": 310000,
+    "medio_pago": "tarjeta",
+    "canal": "online"
+  },
+  {
+    "id_venta": 104,
+    "id_cliente": 4,
+    "monto": 190000,
+    "medio_pago": "efectivo",
+    "canal": "tienda"
+  },
+  {
+    "id_venta": 105,
+    "id_cliente": 5,
+    "monto": 270000,
+    "medio_pago": "tarjeta",
+    "canal": "online"
+  }
+]
