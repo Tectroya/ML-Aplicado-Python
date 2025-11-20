@@ -2,7 +2,7 @@
 
 ## Instrucciones de configuración
 
-- Usuarios de PC, puedes seguir las instrucciones en [SETUP-PC.md](SETUP-PC.md)
+- Usuarios de Windows, puedes seguir las instrucciones en [SETUP-Windows.md](SETUP-Windows.md)
 - Usuarios de Mac, puedes seguir las instrucciones en [SETUP-mac.md](SETUP-mac.md)
 - Usuarios de Linux, ¡las instrucciones para Mac deberían ser lo suficientemente precisas!
 
