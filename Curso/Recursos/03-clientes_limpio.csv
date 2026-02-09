@@ -1,0 +1,121 @@
+id,edad,ciudad,ingresos_mensuales,gasto_ultimo_mes,plan,segmento,churn
+1,56.0,Concepción,1307317.0,237628.0,Premium,Baja,1
+2,69.0,Santiago,721184.0,423632.0,Standard,Media,0
+3,46.0,La Serena,2247191.0,184415.0,Premium,Baja,1
+4,32.0,Santiago,1871091.0,456716.0,Premium,Baja,0
+5,60.0,Santiago,1068234.0,496438.0,Premium,Alta,0
+6,25.0,Santiago,778480.0,591252.0,Standard,Media,0
+7,38.0,Concepción,1191971.0,302764.0,Basic,Media,1
+8,56.0,Concepción,901157.0,516882.0,Basic,Media,1
+9,36.0,Valparaíso,584423.0,562153.0,Premium,Media,0
+10,40.0,Santiago,2152290.0,117215.0,Basic,Media,1
+11,42.69911504424779,Valparaíso,1312495.0,194356.0,Standard,Media,0
+12,28.0,Santiago,2185954.0,324235.0186915888,Basic,Baja,1
+13,41.0,La Serena,533272.0,405612.0,Standard,Baja,0
+14,53.0,Concepción,1167836.0,504605.0,Premium,Media,0
+15,42.69911504424779,Concepción,1526081.0,59435.0,Premium,Baja,1
+16,42.69911504424779,Santiago,1181474.0,324235.0186915888,Basic,Media,0
+17,20.0,Santiago,1760828.0,128781.0,Premium,Media,0
+18,39.0,Santiago,1018467.0,241475.0,Standard,Media,0
+19,19.0,Concepción,1538848.0,210196.0,Basic,Alta,1
+20,41.0,Santiago,1277844.0,276507.0,Standard,Media,0
+21,61.0,Santiago,1429908.1176470588,324235.0186915888,Standard,Media,1
+22,47.0,Santiago,2107923.0,171172.0,Basic,Media,0
+23,55.0,La Serena,1507447.0,406902.0,Standard,Baja,0
+24,19.0,Valparaíso,1339903.0,534963.0,Basic,Alta,0
+25,38.0,Valparaíso,1429908.1176470588,505968.0,Basic,Media,0
+26,50.0,Concepción,1429908.1176470588,324235.0186915888,Standard,Media,0
+27,29.0,Santiago,1429908.1176470588,109101.0,Basic,Media,0
+28,39.0,Valparaíso,1429908.1176470588,545972.0,Standard,Media,0
+29,61.0,Valparaíso,1429908.1176470588,338790.0,Standard,Baja,0
+30,42.0,Santiago,2383509.0,324235.0186915888,Standard,Media,1
+31,66.0,La Serena,516381.0,410260.0,Standard,Alta,0
+32,44.0,Santiago,1921701.0,483374.0,Premium,Alta,0
+33,59.0,Concepción,2020197.0,597577.0,Standard,Media,0
+34,45.0,La Serena,1429908.1176470588,422370.0,Standard,Media,0
+35,33.0,Valparaíso,2311221.0,321967.0,Basic,Alta,0
+36,32.0,Santiago,1599386.0,241232.0,Standard,Media,0
+37,64.0,Santiago,2414484.0,354119.0,Standard,Media,0
+38,68.0,Valparaíso,1429908.1176470588,59540.0,Basic,Media,0
+39,61.0,Santiago,1129903.0,590652.0,Standard,Media,0
+40,69.0,Santiago,1915536.0,447827.0,Standard,Media,0
+41,20.0,La Serena,2160427.0,101991.0,Premium,Media,0
+42,42.69911504424779,Santiago,524123.0,238751.0,Premium,Media,0
+43,68.0,Santiago,1336093.0,416326.0,Standard,Alta,0
+44,24.0,Santiago,1531565.0,324235.0186915888,Basic,Media,0
+45,38.0,La Serena,578274.0,324235.0186915888,Basic,Media,0
+46,26.0,Santiago,1429908.1176470588,241962.0,Premium,Baja,0
+47,42.69911504424779,Valparaíso,531373.0,199143.0,Basic,Media,1
+48,35.0,Santiago,515294.0,586226.0,Basic,Baja,0
+49,21.0,Santiago,2420320.0,403824.0,Standard,Media,0
+50,42.0,Santiago,1048307.0,54000.0,Basic,Alta,1
+51,31.0,Santiago,541564.0,405754.0,Basic,Baja,1
+52,67.0,Santiago,1826388.0,301492.0,Basic,Media,0
+53,26.0,Valparaíso,2467359.0,324235.0186915888,Basic,Media,0
+54,43.0,Santiago,1089944.0,541072.0,Premium,Alta,1
+55,19.0,Santiago,1088105.0,88304.0,Standard,Media,0
+56,37.0,Santiago,2389173.0,554999.0,Basic,Media,0
+57,45.0,Santiago,1814466.0,381593.0,Standard,Media,0
+58,64.0,Santiago,845101.0,324235.0186915888,Premium,Baja,1
+59,24.0,Valparaíso,1452590.0,158940.0,Premium,Alta,0
+60,61.0,Santiago,1429908.1176470588,315517.0,Basic,Media,0
+61,25.0,Santiago,2270785.0,435777.0,Basic,Media,1
+62,64.0,Santiago,1505534.0,599639.0,Basic,Alta,0
+63,52.0,Santiago,1983593.0,387497.0,Basic,Media,0
+64,31.0,Concepción,2203649.0,257869.0,Basic,Media,0
+65,34.0,Concepción,1624665.0,115953.0,Standard,Media,1
+66,53.0,Santiago,1429908.1176470588,550328.0,Basic,Alta,0
+67,67.0,La Serena,1841578.0,53267.0,Basic,Media,0
+68,57.0,Santiago,1429908.1176470588,132745.0,Basic,Alta,0
+69,21.0,La Serena,767654.0,207164.0,Basic,Baja,0
+70,19.0,Santiago,1892785.0,585626.0,Basic,Alta,0
+71,23.0,Santiago,1197079.0,181484.0,Standard,Media,1
+72,59.0,Santiago,1064076.0,581831.0,Basic,Baja,0
+73,21.0,Valparaíso,1697286.0,324235.0186915888,Basic,Media,0
+74,46.0,Concepción,2305324.0,270156.0,Standard,Baja,0
+75,35.0,Valparaíso,1686125.0,273992.0,Standard,Alta,0
+76,43.0,Santiago,1932875.0,566771.0,Basic,Media,0
+77,61.0,Valparaíso,848982.0,593176.0,Basic,Media,0
+78,51.0,Valparaíso,1572622.0,164352.0,Basic,Media,0
+79,27.0,Santiago,1396161.0,135999.0,Premium,Alta,0
+80,42.69911504424779,Santiago,1066326.0,67955.0,Standard,Alta,0
+81,31.0,Santiago,1049150.0,120640.0,Standard,Alta,0
+82,48.0,Santiago,518834.0,246582.0,Premium,Media,0
+83,65.0,Valparaíso,2099005.0,450573.0,Basic,Baja,0
+84,32.0,Santiago,2154236.0,475695.0,Basic,Media,0
+85,25.0,Santiago,1429908.1176470588,111476.0,Standard,Alta,0
+86,31.0,Concepción,455609.0,356955.0,Basic,Baja,0
+87,40.0,Concepción,627897.0,217280.0,Standard,Media,1
+88,57.0,Santiago,1374165.0,464568.0,Standard,Media,0
+89,38.0,Valparaíso,1479600.0,236141.0,Standard,Alta,0
+90,33.0,Concepción,1425715.0,588685.0,Premium,Media,0
+91,62.0,La Serena,1838533.0,228031.0,Basic,Alta,1
+92,35.0,Santiago,1429908.1176470588,324235.0186915888,Standard,Media,0
+93,64.0,Santiago,2458852.0,116234.0,Basic,Baja,0
+94,41.0,Concepción,1429908.1176470588,228352.0,Premium,Alta,0
+95,43.0,Concepción,651451.0,129459.0,Standard,Media,0
+96,42.0,Santiago,403051.0,324235.0186915888,Basic,Alta,0
+97,62.0,Santiago,2152683.0,245004.0,Basic,Media,0
+98,58.0,La Serena,1404646.0,516152.0,Basic,Media,0
+99,46.0,Santiago,2060099.0,109163.0,Basic,Media,0
+100,32.0,Valparaíso,1429908.1176470588,525853.0,Basic,Media,0
+101,62.0,Concepción,589407.0,101934.0,Standard,Media,0
+102,18.0,Concepción,1429908.1176470588,475523.0,Standard,Media,0
+103,42.0,Santiago,1349597.0,324235.0186915888,Standard,Media,0
+104,24.0,Santiago,1660386.0,55486.0,Basic,Media,0
+105,26.0,Santiago,1543052.0,189407.0,Standard,Media,0
+106,41.0,Concepción,622866.0,270184.0,Basic,Media,0
+107,18.0,Santiago,1535248.0,399652.0,Standard,Media,0
+108,61.0,Santiago,1429908.1176470588,372710.0,Basic,Media,0
+109,42.69911504424779,La Serena,1793470.0,247775.0,Basic,Baja,0
+110,41.0,Valparaíso,1823286.0,339336.0,Basic,Media,0
+111,28.0,Santiago,583062.0,139780.0,Basic,Alta,0
+112,68.0,La Serena,500235.0,202617.0,Basic,Media,0
+113,34.0,La Serena,2301625.0,595977.0,Basic,Media,0
+114,25.0,Valparaíso,1150201.0,400605.0,Premium,Baja,0
+115,52.0,La Serena,1203328.0,583636.0,Standard,Alta,1
+116,52.0,Santiago,1443233.0,88102.0,Basic,Alta,1
+117,50.0,Santiago,2111741.0,124460.0,Basic,Media,0
+118,22.0,Santiago,929525.0,414778.0,Basic,Media,0
+119,59.0,Concepción,1468632.0,139930.0,Standard,Baja,0
+120,56.0,La Serena,576615.0,581089.0,Standard,Alta,0
