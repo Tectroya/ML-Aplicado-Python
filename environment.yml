@@ -3,10 +3,12 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.13
+  - python=3.12         
+  - nomkl               
   - numpy
   - pandas
   - scikit-learn
   - matplotlib
+  - seaborn              
   - jupyterlab
   - ipywidgets
